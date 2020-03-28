@@ -110,6 +110,37 @@ section{
 }
 
 
+/*------greeting-------*/
+
+.greeting h2{
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.greeting .contents{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin: 0 auto;
+	align-items:center;
+}
+
+.greeting .contents figure{
+	width: 50%;
+}
+
+.greeting .content{
+	width: 40%;
+}
+
+
+
+
+
+
+
+
+
 
 
 
