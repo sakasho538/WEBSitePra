@@ -187,16 +187,7 @@ section{
 	text-align: center;
 }
 
-.news dt{
-	font-size: 0.75em;
-	color: #949494;
-	padding-right: 0px;
-	margin-right: 80px;
-	float: left;
-}
-
 .news dl{
-	border-bottom: dotted 1px #dedede;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -205,9 +196,25 @@ section{
 	color: #333333;
 }
 
+
 .news dl a:hover{
 	opacity: 0.6;
 }
+
+.news dt{
+	font-size: 0.75em;
+	color: #949494;
+	padding-right: 0px;
+	margin-right: 80px;
+	float: left;
+}
+
+
+.news dd{
+	border-bottom:1px solid #ccc;
+}
+
+
 
 
 
